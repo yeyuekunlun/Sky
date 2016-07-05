@@ -1,4 +1,4 @@
-Mac OS Hello!
+Mac OSX Hello!
 Git Test One.
 Git is a open Gpl Distribution System
 git branch -d dev
